@@ -1,0 +1,9 @@
+spring:
+  application:
+      name: blogs
+server:
+  session-timeout: 60
+  tomcat.uri-encoding: UTF-8
+  port: 7000
+  servlet:
+    context-path: /blogs

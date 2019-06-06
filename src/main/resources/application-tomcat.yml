@@ -1,0 +1,6 @@
+server:
+  session-timeout: 0
+  tomcat.uri-encoding: UTF-8
+  port: 7000
+  servlet:
+    context-path: /blogs
